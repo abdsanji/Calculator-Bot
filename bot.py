@@ -28,7 +28,7 @@ Bot = Client(
 START_TEXT = """
 Hello {}, I am Telegram calculator bot 
 
- Send me /calc or /claculator and See what can I do!.
+ Send me /calc or /calculator and See what can I do!.
 
 My creator [@sparkysunny](https://t.me/sparkysunny/604)
 """
